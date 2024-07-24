@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.spyderproject
+.spyproject
+
+#Image data and labels for training
+vinbigdata-chest-xray-abnormalities-detection/
+images/
+sample_labels.csv
